@@ -1,2 +1,4 @@
 .DS_Store
 ._*
+**/reference_output/**
+*.hex
